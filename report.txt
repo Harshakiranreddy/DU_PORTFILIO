@@ -1,0 +1,14 @@
+Stocks:
+Symbol         Shares             Purchase              Current             Earnings
+GOOGL             125               772.88 $              941.53                 2.78
+MSFT               85                56.60 $               73.04                 3.70
+RDS-A             400                49.58 $               55.74                 1.58
+AIG               235                54.21 $               65.27                 2.60
+FB                150               124.31 $              172.45                 4.94
+M                 425                30.30 $               23.98                -3.26
+F                  85                12.58 $               10.95                -2.06
+IBM                80               150.37 $              145.30                -0.56
+
+Bonds:
+Symbol         Shares             Purchase              Current     Coupon      Yield             Earnings
+GT2:GOV           200 $              100.02 $              100.05       1.38%       1.35                -1.34
